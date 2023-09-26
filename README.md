@@ -11,6 +11,8 @@ This is a repo is clone of https://github.com/varadbhogayata/varadbhogayata.gith
 ![Activity 2](Activity2_2.png)
 ![Activity 2](Activity2_3.png)
 ![Activity 2](Activity2_4.png)
+
+MY Apologies I had to fix this at the end of the lab - I caught now ;This was small name error change, but still part of activity 2
 ![Activity 2](Activity2_4point5.png)
 ![Activity 2](Activity2_5.png)
 ![Activity 2](Activity2_6.png)
